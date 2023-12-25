@@ -1,0 +1,22 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+.btn_container {
+    display: flex;
+    justify-content: center;
+    padding: 10px 10px 10px 10px;
+}
+
+.bulb_btn {
+    border: 1px solid ;
+    border-radius: 15px;
+    background-color: rgb(147, 166, 250);
+    width: 10%;
+    height: 40px;
+}
+.opo{
+    display: flex;
+    justify-content: center;
+}
