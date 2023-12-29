@@ -4,8 +4,5 @@ function bulb_on(){
 function bulb_off(){
     document.getElementById('bulb').src='https://i.postimg.cc/KjK1wL3c/bulb-off.png';
 }
-pop = "";
-function start(){
-    pop = 2
-}
+
  
